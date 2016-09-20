@@ -1,0 +1,8 @@
+C:\inetpub\wwwroot\UUXTeamCity\UUX.TeamCity\UUX.TeamCity.Test\bin\Debug\UUX.TeamCity.Test.dll
+C:\inetpub\wwwroot\UUXTeamCity\UUX.TeamCity\UUX.TeamCity.Test\bin\Debug\UUX.TeamCity.Test.pdb
+C:\inetpub\wwwroot\UUXTeamCity\UUX.TeamCity\UUX.TeamCity.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\inetpub\wwwroot\UUXTeamCity\UUX.TeamCity\UUX.TeamCity.Test\bin\Debug\UUX.TeamCity.BusinessLogic.dll
+C:\inetpub\wwwroot\UUXTeamCity\UUX.TeamCity\UUX.TeamCity.Test\bin\Debug\UUX.TeamCity.BusinessLogic.pdb
+C:\inetpub\wwwroot\UUXTeamCity\UUX.TeamCity\UUX.TeamCity.Test\obj\Debug\UUX.TeamCity.Test.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\UUXTeamCity\UUX.TeamCity\UUX.TeamCity.Test\obj\Debug\UUX.TeamCity.Test.dll
+C:\inetpub\wwwroot\UUXTeamCity\UUX.TeamCity\UUX.TeamCity.Test\obj\Debug\UUX.TeamCity.Test.pdb

@@ -1,0 +1,5 @@
+C:\inetpub\wwwroot\UUXTeamCity\UUX.TeamCity\UUX.TeamCity.BusinessLogic\bin\Debug\UUX.TeamCity.BusinessLogic.dll
+C:\inetpub\wwwroot\UUXTeamCity\UUX.TeamCity\UUX.TeamCity.BusinessLogic\bin\Debug\UUX.TeamCity.BusinessLogic.pdb
+C:\inetpub\wwwroot\UUXTeamCity\UUX.TeamCity\UUX.TeamCity.BusinessLogic\obj\Debug\UUX.TeamCity.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\UUXTeamCity\UUX.TeamCity\UUX.TeamCity.BusinessLogic\obj\Debug\UUX.TeamCity.BusinessLogic.dll
+C:\inetpub\wwwroot\UUXTeamCity\UUX.TeamCity\UUX.TeamCity.BusinessLogic\obj\Debug\UUX.TeamCity.BusinessLogic.pdb
