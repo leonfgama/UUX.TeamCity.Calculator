@@ -1,13 +1,13 @@
 ﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
 using UUX.TeamCity.BusinessLogic;
+using NUnit.Framework;
 
 namespace UUX.TeamCity.Test
 {
-    [TestClass]
+    [TestFixture]
     public class OperatorTest
     {
-        [TestMethod]
+        [Test]
         public void TestSum()
         {
             decimal firstValue = 10;
@@ -18,7 +18,7 @@ namespace UUX.TeamCity.Test
             Assert.AreEqual(operatorResult, result);
         }
 
-        [TestMethod]
+        [Test]
         public void TestSubtraction()
         {
             decimal firstValue = 10;
@@ -29,7 +29,7 @@ namespace UUX.TeamCity.Test
             Assert.AreEqual(operatorResult, result);
         }
 
-        [TestMethod]
+        [Test]
         public void TestMultiplication()
         {
             decimal firstValue = 10;
@@ -40,7 +40,7 @@ namespace UUX.TeamCity.Test
             Assert.AreEqual(operatorResult, result);
         }
 
-        [TestMethod]
+        [Test]
         public void TestDivision()
         {
             decimal firstValue = 10;
@@ -50,7 +50,5 @@ namespace UUX.TeamCity.Test
 
             Assert.AreEqual(operatorResult, result);
         }
-
-
     }
 }
