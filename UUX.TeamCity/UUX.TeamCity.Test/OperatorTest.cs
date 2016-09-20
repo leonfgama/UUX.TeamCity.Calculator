@@ -12,7 +12,7 @@ namespace UUX.TeamCity.Test
         {
             decimal firstValue = 10;
             decimal secondValue = 5;
-            decimal result = firstValue + secondValue + 5;
+            decimal result = firstValue + secondValue;
             decimal operatorResult = Operator.Sum(firstValue, secondValue);
 
             Assert.AreEqual(operatorResult, result);
@@ -23,7 +23,7 @@ namespace UUX.TeamCity.Test
         {
             decimal firstValue = 10;
             decimal secondValue = 5;
-            decimal result = firstValue - secondValue + 5;
+            decimal result = firstValue - secondValue;
             decimal operatorResult = Operator.Subtraction(firstValue, secondValue);
 
             Assert.AreEqual(operatorResult, result);
@@ -34,7 +34,7 @@ namespace UUX.TeamCity.Test
         {
             decimal firstValue = 10;
             decimal secondValue = 5;
-            decimal result = firstValue * secondValue + 5;
+            decimal result = firstValue * secondValue;
             decimal operatorResult = Operator.Multiplication(firstValue, secondValue);
 
             Assert.AreEqual(operatorResult, result);
@@ -45,7 +45,7 @@ namespace UUX.TeamCity.Test
         {
             decimal firstValue = 10;
             decimal secondValue = 5;
-            decimal result = firstValue / secondValue + 5;
+            decimal result = firstValue / secondValue;
             decimal operatorResult = Operator.Division(firstValue, secondValue);
 
             Assert.AreEqual(operatorResult, result);
