@@ -6,3 +6,5 @@ C:\inetpub\wwwroot\UUXTeamCity\UUX.TeamCity\UUX.TeamCity.Test\bin\Debug\UUX.Team
 C:\inetpub\wwwroot\UUXTeamCity\UUX.TeamCity\UUX.TeamCity.Test\obj\Debug\UUX.TeamCity.Test.csprojResolveAssemblyReference.cache
 C:\inetpub\wwwroot\UUXTeamCity\UUX.TeamCity\UUX.TeamCity.Test\obj\Debug\UUX.TeamCity.Test.dll
 C:\inetpub\wwwroot\UUXTeamCity\UUX.TeamCity\UUX.TeamCity.Test\obj\Debug\UUX.TeamCity.Test.pdb
+C:\inetpub\wwwroot\UUXTeamCity\UUX.TeamCity\UUX.TeamCity.Test\bin\Debug\nunit.framework.dll
+C:\inetpub\wwwroot\UUXTeamCity\UUX.TeamCity\UUX.TeamCity.Test\bin\Debug\nunit.framework.xml
